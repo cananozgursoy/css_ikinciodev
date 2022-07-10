@@ -1,0 +1,57 @@
+/** input**/
+
+/**logo kısmı**/
+.ust {
+    margin-top: 200px;
+}
+
+.genislik {
+    width: 300px;
+}
+
+.one {
+    margin: 10px 50px 5px 50px;
+    padding-top: 1px;
+    background-color: gainsboro;
+    text-align: center;
+
+
+}
+
+.content {
+    height: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 60px 5px 60px;
+}
+
+.first {
+    width: 32%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #7EE5DA;
+    height: 200px;
+    margin-right: 9px;
+}
+
+.second {
+    width: 32%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #7EE5DA;
+    height: 200px;
+    margin-right: 9px;
+}
+
+.third {
+    width: 32%;
+    float: left;
+    text-align: center;
+    padding-top: 25px;
+    background-color: #7EE5DA;
+    height: 200px;
+    margin-right: 9px;
+}
+
+/**output**/
